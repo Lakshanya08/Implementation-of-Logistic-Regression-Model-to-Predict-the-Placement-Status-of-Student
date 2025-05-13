@@ -78,7 +78,7 @@ print("Confusion Matrix:\n", confusion)
 classification_report1 = classification_report(y_test, y_pred)
 print("Classification Report:\n", classification_report1)
 ```
-```
+
 
 ## Output:
 
